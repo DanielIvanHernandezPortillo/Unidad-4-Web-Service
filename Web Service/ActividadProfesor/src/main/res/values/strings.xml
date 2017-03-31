@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WSActividadProfesor</string>
+    <string name="horas_asignadas">Horas asignadas</string>
+    <string name="actividad">Actividad</string>
+    <string name="maestro">Maestro</string>
+    <string name="periodo">Periodo</string>
+    <string name="guardar">Guardar</string>
+    <string name="listar">Listar</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="regresar">Regresar</string>
+</resources>
